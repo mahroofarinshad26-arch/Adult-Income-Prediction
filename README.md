@@ -215,7 +215,9 @@ Adult-Income-Prediction/
 ├── README.md
 └── .gitignore
 
+
 ## Technologies Used
+
 Python
 Pandas
 NumPy
@@ -226,7 +228,9 @@ Joblib
 Streamlit
 GitHub
 
+
 ##  Conclusion
+
 
 This project successfully developed an end-to-end Machine Learning system for predicting an individual's income category.
 
