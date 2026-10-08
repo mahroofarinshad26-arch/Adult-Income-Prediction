@@ -179,6 +179,8 @@ This saved pipeline is used directly by the Streamlit application.
 
 The trained Machine Learning model was deployed using **Streamlit**.
 
+**Live App:**https://adult-income-prediction-cthcsjht8mpygb8dfsdhfg.streamlit.app/
+
 The Streamlit application provides an interactive interface where users can enter individual details such as:
 
 - Age
